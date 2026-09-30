@@ -1,0 +1,8 @@
+# 编辑器 / 系统
+.DS_Store
+*.swp
+*.swo
+*~
+
+# AX Graph 内部状态(由 ax 工具管理,不需要手动 commit)
+# .active-base 由 ax --base 自动维护,不需要 commit

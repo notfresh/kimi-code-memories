@@ -1,0 +1,11 @@
+# Layer-longlife — 长期语义层(principle / constraint / decision / invariant)
+#
+# 全部按用户口述写入,行号未实测,status="proposed"。
+# 等用户后续核对行号/补充依据后,改为 active。
+#
+# 编号规则见 ../numbering-rule.txt:
+#   - number 字段从 1 起,严禁跳号/重复/回填改号
+#   - 新节点追加在文件末尾时,number = 当前最大 number + 1
+#   - 每个节点头部注释 `# ── 条目 N: ... ──` 中的 N 与 number 字段保持一致
+
+# (暂无节点 —— 仓创建于 2026-09-30,首批记忆待用户口述后添加)
